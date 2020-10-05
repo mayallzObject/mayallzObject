@@ -7,7 +7,7 @@ Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstac
 [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
 Always happy to hear from you! 
-email[](mayallzobject@gmail.com)
+
 
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
