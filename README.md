@@ -1,5 +1,5 @@
 ### Hi there 👋
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/66206483/95061158-869e2080-06fb-11eb-93a9-261cca8a68ee.gif)
+![About](https://media.giphy.com/media/qVLyLBif4rGAmoaWMJ/giphy.gif)
 
 
 <!--
