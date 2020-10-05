@@ -3,12 +3,12 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/66206483/95062046-b4d03000-06fc-11eb-99ce-7e16aafa5174.gif)
 
 
+Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. You can find more about me on my 
+[LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. You can find more about me on my 
-[LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
 point_left Always happy to hear from you via email as well!
 
