@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/66206483/95065682-af291900-0701-11eb-8253-973d2c4fb079.gif)
+
 
 
 Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. You can find more about me on my 
