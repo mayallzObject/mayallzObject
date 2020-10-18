@@ -8,9 +8,11 @@ Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstac
 
 #### I have expirience with: 
   
-  Frontend: JavaScript, TypeScript, React, Vue, HTML
-  Styling: CSS, SASS/SCSS, Bootstrap, Material-UI, Styled-Components
-  Backend: Node, Express, PostgreSQL, SQL, GraphQL
+    Frontend: JavaScript, TypeScript, React, Vue, HTML
+    
+    Styling: CSS, SASS/SCSS, Bootstrap, Material-UI, Styled-Components
+    
+    Backend: Node, Express, PostgreSQL, SQL, GraphQL
 
 Always happy to hear from you! 
 
