@@ -15,17 +15,11 @@ At codaisseur I've learned:
 In past month I've been leaning:
 
      TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components. 
-and exploting: 
-
-     Python, Java, C++   
 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
     Frontend: JavaScript, TypeScript, React, Vue, HTML5
-    
     Styling: CSS3, Sass/SCSS, Bootstrap, Material-UI, Styled-Components
-    
     Backend: Node, Express, PostgreSQL, SQL, GraphQL
-
     Limited experience with: Python, Java, C++
 
 <!--
