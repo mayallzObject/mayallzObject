@@ -6,16 +6,14 @@
 Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. You can find more about me on my 
 [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
-#### I have expirience with: 
+Always happy to hear from you! 
+
   
     Frontend: JavaScript, TypeScript, React, Vue, HTML
     
     Styling: CSS, SASS/SCSS, Bootstrap, Material-UI, Styled-Components
     
     Backend: Node, Express, PostgreSQL, SQL, GraphQL
-
-Always happy to hear from you! 
-
 
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
