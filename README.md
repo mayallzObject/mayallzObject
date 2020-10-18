@@ -7,17 +7,30 @@ create value for sociaty and my familly.
 
     I am still new to coding, but I am open-minded an eager to learn. 
     I dream, eat and sleep code. 
-    Currently I am passioned about building full-stack web applications, 
-    I am also very passioned about the theorethicalside of machine-learning. 
-    I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. 
+    I am passioned about building full-stack web applications, and currently 
+    working 1 frontend and one full-stack application. 
+    
+    I've recently graduated from Codaisseur Academy as a Fullstack Web Developer.
+    At codaisseur I've learned: 
+     JavaScript, React + Redux, NodeJS, Express, SequilezeORM, HTML5, CSS3,
+     Bootstrap, PostreSQL, Heroku, GraphQL, GitHub
+    
+    In past month I've been leaning:
+     TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components. 
+    
+    and exploting: 
+     Python, Java, C++
+    
+    
+    
 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
 Always happy to hear from you! 
 
   
-    Frontend: JavaScript, TypeScript, React, Vue, HTML
+    Frontend: JavaScript, TypeScript, React, Vue, HTML5
     
-    Styling: CSS, SASS/SCSS, Bootstrap, Material-UI, Styled-Components
+    Styling: CSS3, Sass/SCSS, Bootstrap, Material-UI, Styled-Components
     
     Backend: Node, Express, PostgreSQL, SQL, GraphQL
 
