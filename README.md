@@ -8,11 +8,14 @@ _I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. I
 
 #### Expirience
 
-Bootcamp: [ JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub ]
-
-Post-bootcamp: [ TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components ]
-    
-Exploring: [ Python, Java, C++ ]
+    Bootcamp: [ 
+        JavaScript, React, NodeJS, HTML5, CSS3, 
+        Bootstrap,Express, SequilezeORM, 
+        PostreSQL, Heroku, GraphQL, GitHub ]
+    Post-bootcamp: [ 
+        TypeScript, Vue, GitHub, Sass/SCSS, 
+        Material-UI, Styled-Components ]    
+    Exploring: [ Python, Java, C++ ]
     
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
