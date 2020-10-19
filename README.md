@@ -2,7 +2,7 @@
 
 _I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. I am relatively new to coding, but I am open-minded and eager to learn. You can find more about me on my_ [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
-    🌱 Expirience: [ 
+    🌱🔭👯  
         JavaScript, 
         React,
         Vue,
@@ -16,7 +16,7 @@ _I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. I
         Styled-Components,
         Express, 
         GraphQL, 
-        GitHub ]
+        GitHub 
     
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
