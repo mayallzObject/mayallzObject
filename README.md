@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. 
-⚡I am relatively new to coding, but I am open-minded and eager to learn. 
-You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
+⚡ I am relatively new to coding, but I am open-minded and eager to learn. 
+🔭 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
     🌱 
         JavaScript, 
