@@ -2,20 +2,21 @@
 
 _I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. I am relatively new to coding, but I am open-minded and eager to learn. You can find more about me on my_ [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
-
-
-
-
-#### 🌱 Expirience
-
-    Bootcamp: [ 
-        JavaScript, React, NodeJS, HTML5, CSS3, 
-        Bootstrap,Express, SequilezeORM, 
-        PostreSQL, Heroku, GraphQL, GitHub ]
-    Post-bootcamp: [ 
-        TypeScript, Vue, GitHub, Sass/SCSS, 
-        Material-UI, Styled-Components ]    
-    Exploring: [ Python, Java, C++ ]
+    🌱 Expirience: [ 
+        JavaScript, 
+        React,
+        Vue,
+        NodeJS,
+        TypeScript,
+        HTML5, 
+        CSS3, 
+        Bootstrap,
+        Sass,
+        Material-UI, 
+        Styled-Components,
+        Express, 
+        GraphQL, 
+        GitHub ]
     
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
