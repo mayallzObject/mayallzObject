@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ivo, and I am a Social Anthropologist by education. I've recently graduated from Codaisseur's Fullstack Web Developer boot camp. I started to code because I want to use my problem-solving skills to create value for society and my family, meet new friends, and build cool stuff.
+My name is Ivo, and I am a Social Anthropologist by education. I've recently graduated from Codaisseur's Fullstack Web Developer boot camp. I started to code because I want to use my problem-solving skills to create value for society and my family, as well as meet new friends and build cool stuff.
 
 I am still new to coding, but I am open-minded an eager to learn.
 
