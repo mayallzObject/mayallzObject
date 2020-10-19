@@ -6,7 +6,7 @@ Hi there, my name is Ivaylo but my friends call me Ivo.
 create value for sociaty and my familly.I am still new to coding, but I am open-minded an eager to learn. 
 
 **Bootcamp**
-    JavaScript, React + Redux, NodeJS, HTML5, CSS3, Bootstrap,
+    JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,
     Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub
 
 **Post-bootcamp**
