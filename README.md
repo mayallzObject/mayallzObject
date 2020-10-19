@@ -9,11 +9,17 @@ I am still new to coding, but I am open-minded and eager to learn. You can find 
 
 #### Expirience
 
-Bootcamp: [ JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub ]
+Bootcamp: 
+       
+      [ JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub ]
 
-Post-bootcamp: [ TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components ]
+Post-bootcamp: 
     
-Exploring: [ Python, Java, C++ ]
+      [ TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components ]
+    
+Exploring:  
+     
+      [ Python, Java, C++ ]
     
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
