@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Hi there, my name is Ivo. Nice to meet you! 
-
+Hi there, I am Ivo
+**{about}**: I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp.
 I started to code because I want to use my problem solving skills to 
 create value for sociaty and my familly.
 I am still new to coding, but I am open-minded an eager to learn. 
-
-I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp.
 
 **{bootcamp}**
 JavaScript, React + Redux, NodeJS, Express, SequilezeORM, HTML5, CSS3,
