@@ -7,7 +7,7 @@ I am still new to coding, but I am open-minded an eager to learn.
 You can find more about me on my **[LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).**
 
 
-##### Expirience
+#### Expirience
 
 **Bootcamp**: [ JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub ]
 
@@ -15,7 +15,6 @@ You can find more about me on my **[LinkedIn](https://www.linkedin.com/in/ivaylo
     
 **Exploring**: [ Python, Java, C++ ]
     
-You can find more about me on my **[LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).**
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
