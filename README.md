@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Hi there, my name is Ivaylo but my friends call me Ivo.
+My name is Ivo, and I am a Social Anthropologist by education. I've recently graduated from Codaisseur's Fullstack Web Developer boot camp. I started to code because I want to use my problem-solving skills to create value for society and my family, meet new friends, and build cool stuff.
 
-**About** I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp. I started to code because I want to use my problem solving skills to 
-create value for sociaty and my familly.I am still new to coding, but I am open-minded an eager to learn.
+I am still new to coding, but I am open-minded an eager to learn.
 
 You can find more about me on my **[LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).**
 
-###### Expirience
+
+##### Expirience
 
 **Bootcamp**: [ JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap,Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub ]
 
