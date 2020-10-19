@@ -8,18 +8,18 @@ I am still new to coding, but I am open-minded an eager to learn.
 
 I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp.
 
-**There I got to learn:**
+**bootcamp:**
 JavaScript, React + Redux, NodeJS, Express, SequilezeORM, HTML5, CSS3,
 Bootstrap, PostreSQL, Heroku, GraphQL, GitHub
 
-**In past month I've been leaning:**
+**last-month**
 TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components. 
- 
- **{Expirience}**: JavaScript, TypeScript, React, Vue, HTML5
- CSS3, Sass/SCSS, Bootstrap, Material-UI, Styled-Components
+
+ **{expirience}**: JavaScript, TypeScript, React, Vue, HTML5
+ CSS3, Sass/SCSS, Bootstrap, Material-UI, Styled-Components,
  Node, Express, PostgreSQL, SQL, GraphQL
  
- **{exploring}**: Python, Java, C++\
+ **{exploring}**: Python, Java, C++
  
 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 <!--
