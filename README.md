@@ -6,7 +6,7 @@ _I've recently graduated from Codaisseur Academy as a Fullstack Web Developer. I
 
 
 
-#### Expirience
+#### 🌱 Expirience
 
     Bootcamp: [ 
         JavaScript, React, NodeJS, HTML5, CSS3, 
