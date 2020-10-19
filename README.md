@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 _I've recently graduated from Codaisseur's Fullstack Web Developer boot camp. I started to code because I want to use my problem-solving skills to create value for society and my family, as well as meet new friends and build cool stuff.
-I am still new to coding, but I am open-minded and eager to learn. You can find more about me on my [LinkedIn]_(https://www.linkedin.com/in/ivaylo-ivo-yankov/).
+I am still new to coding, but I am open-minded and eager to learn. You can find more about me on my_ [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
 
 
