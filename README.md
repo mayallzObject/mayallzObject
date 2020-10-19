@@ -2,32 +2,19 @@
 
 Hi there, my name is Ivaylo but my friends call me Ivo.
 
-**About**
-      
-     I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp.
-     I started to code because I want to use my problem solving skills to 
-     create value for sociaty and my familly.I am still new to coding, but 
-     I am open-minded an eager to learn. 
+**About** I've recently graduated from Codaisseur's Fullstack Web Developer bootcamp. I started to code because I want to use my problem solving skills to 
+create value for sociaty and my familly.I am still new to coding, but I am open-minded an eager to learn. 
 
 **Bootcamp**
-     
-    JavaScript, React + Redux, NodeJS, Express, SequilezeORM, 
-    PostreSQL, Heroku, GraphQL, GitHub.
-    HTML5, CSS3,Bootstrap,
+    JavaScript, React + Redux, NodeJS, HTML5, CSS3, Bootstrap,
+    Express, SequilezeORM, PostreSQL, Heroku, GraphQL, GitHub
 
 **Post-bootcamp**
-   
     TypeScript, Vue, GitHub, Sass/SCSS, Material-UI, Styled-Components
-
- **Expirience**
- 
-    JavaScript, TypeScript, React, Vue, 
-    HTML5CSS3, Sass/SCSS, Bootstrap, Material-UI, Styled-Components, 
-    Node, Express, PostgreSQL, SQL, GraphQL.
- 
- **Exploring**
     
-    Python, Java, C++.
+**Exploring**
+    Python, Java, C++
+    
 **You can find more about me on my** [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
