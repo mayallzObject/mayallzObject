@@ -5,20 +5,8 @@ Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Full-Sta
 🔭 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/ivaylo-ivo-yankov/).
 
     🌱 
-        JavaScript, 
-        React,
-        Vue,
-        NodeJS,
-        TypeScript,
-        HTML5, 
-        CSS3, 
-        Bootstrap,
-        Sass,
-        Material-UI, 
-        Styled-Components,
-        Express, 
-        GraphQL, 
-        GitHub 
+        JavaScript, React,Vue, NodeJS, TypeScript,Sass,Material-UI, Express. 
+
     
 <!--
 **mayallzObject/mayallzObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
