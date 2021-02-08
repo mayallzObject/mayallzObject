@@ -6,7 +6,7 @@ Hi there, I'm Ivo! I've recently graduated from Codaisseur Academy as a Full-Sta
  
  
 JavaScript, React, Vue 2 + 3, NodeJS, Express, SequelizeORM, GraphQL, TypeScript,
-CSS, Sass, Material-UI, Bootstrap, Jest, RESTful APIs .
+CSS, Sass, Material-UI, Bootstrap, Jest, REST APIs .
 
     
 <!--
